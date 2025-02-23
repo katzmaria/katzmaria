@@ -4,7 +4,7 @@
 📍 Montreal, Quebec, Canada  
 
 ## About Me
-I am a dedicated software engineering student passionate about creating innovative solutions and exploring new technologies. With a strong foundation in data structures, algorithms, and object-oriented programming, I enjoy developing software that enhances user experiences and improves processes.
+I am a dedicated software engineering student passionate about creating innovative solutions and exploring new languages. I also enjoy developing software that enhances user experiences and improves processes.
 
 ---
 
