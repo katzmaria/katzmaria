@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Maria-Christine Catiche!
+# 👋 Hello, I'm Maria-Christine !
 
 💻 **Software Engineering Student at Concordia University**  
-📍 Montreal, Quebec, Canada  
+📍 Gatineau/Montreal, Quebec, Canada  
 
 ## About Me
 I am a dedicated software engineering student passionate about creating innovative solutions and exploring new languages. I also enjoy developing software that enhances user experiences and improves processes.
