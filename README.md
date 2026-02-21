@@ -27,5 +27,5 @@ I am a dedicated software engineering student passionate about creating solution
 --- 
 # How to reach me?
 - 📧 **Email:** mariachristinecatiche@gmail.com
-- 💼 **LinkedIn:** (www.linkedin.com/in/maria-christine-catiche-873b06282)
+- 💼 **LinkedIn:** (www.linkedin.com/in/maria-christine-c-873b06282)
 
